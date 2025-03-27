@@ -1,0 +1,11 @@
+[
+    {"aprobado":{asunto:"${nomEmpresa} | Hoja Madre - Rúbrica Digital Aprobada ${periodo}",
+        Mail:"¡Buenas tardes, ${personEmpresa} !
+            Adjunto la Hoja Madre, constancia de aprobación de rúbrica correspondiente al período ${periodo}.
+            Quedo a ${singular} disposición para cualquier consulta que ${singular} tener.
+            ¡Saludos cordiales!"}
+    }
+    
+]
+
+

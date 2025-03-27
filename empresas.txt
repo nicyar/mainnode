@@ -1,0 +1,23 @@
+    
+    {
+        empresa: 'EjemploCorp',
+        contactos: [
+            {
+                motivo: 'aprobado'
+                nombre: 'Juan Pérez',
+                email: 'juan.perez@ejemplocorp.com',
+                departamento: 'Ventas',
+                asunto: 'Consulta general'
+            },
+            {
+                motivo:'tasa'
+                nombre: 'María Rodríguez',
+                email: 'maria.rodriguez@ejemplocorp.com',
+                departamento: 'Soporte Técnico',
+                asunto: 'Problema técnico'
+            }
+        ]
+    },
+    // Agregar más empresas aquí
+
+    // ...

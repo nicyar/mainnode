@@ -1,0 +1,23 @@
+{
+  "Aprobado": {
+    "Asunto": "${empresa} | Hoja Madre - Rúbrica Digital Aprobada ${periodo}",
+    "Cuerpo": {
+      "Singular": "¡Buenas tardes, ${receptor}!\n\nAdjunto la Hoja Madre, constancia de aprobación de rúbrica correspondiente al período ${periodo}.\n\nQuedo a tu disposición para cualquier consulta que puedas tener.\n\n¡Saludos y ${semana}!",
+      "Plural": "¡Buenas tardes, estimados!\n\nAdjunto la Hoja Madre, constancia de aprobación de rúbrica correspondiente al período ${periodo}.\n\nQuedo a su disposición para cualquier consulta que puedan tener.\n\n¡Saludos y ${semana}!"
+    }
+  },
+  "Tasas": {
+    "Asunto": "${razonSocial} | Tasas ${periodo}",
+    "Cuerpo": {
+      "Singular": "Hola ${receptor}, buenas tardes:\n\nAdjunto te envío el cupón de pago de las tasas correspondientes al período ${periodo}.\n\nPor favor, considera la fecha de vencimiento indicada en el documento.\n\n¡Gracias por tu atención!\n\nQuedo a disposición por cualquier consulta.\n\nSaludos",
+      "Plural": "Buenas tardes, estimados:\n\nAdjunto les envío el cupón de pago de las tasas correspondientes al período ${periodo}.\n\nPor favor, consideren la fecha de vencimiento indicada en el documento.\n\n¡Gracias por su atención!\n\nQuedo a disposición por cualquier consulta.\n\nSaludos"
+    }
+  },
+  "Recordatorio": {
+    "Asunto": "${razonSocial} | Recordatorio de Pago de Tasas ${periodo}",
+    "Cuerpo": {
+      "Singular": "Buenas tardes, ${nombre}!\n\nMe comunico para consultarle si ha podido abonar las tasas del período correspondiente al ${periodo}.\n\nPor favor, tener en cuenta la fecha de vencimiento (${fechaVencimiento}) para evitar inconvenientes.\n\nEs importante realizar este pago a la brevedad para garantizar que las rúbricas puedan gestionarse en tiempo y forma.\n\n¡Muchas gracias por tu atención!\n\nCualquier consulta quedo a su disposición!\n\nSaludos cordiales",
+      "Plural": "Buenas tardes, Estimados!\n\nMe comunico para consultarles si han podido abonar las tasas del período correspondiente al ${periodo}.\n\nPor favor, tener en cuenta la fecha de vencimiento (${fechaVencimiento}) para evitar inconvenientes.\n\nEs importante realizar este pago a la brevedad para garantizar que las rúbricas puedan gestionarse en tiempo y forma.\n\n¡Muchas gracias por su atención!\n\nCualquier consulta quedo a su disposición!\n\nSaludos cordiales"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Capa de ruteo 
+
+Seleccion de empresa (buscador)
+Seleccion de mensaje a enviar -Cupon de tasa
+			      -Recordatorio
+			      -Aprobado
+  			      -Vencimiento
+
+Para peticiones utilizar async/await
+env con contraseñas y configuracion()dotenv
+
+status de las respuestas del servidos
+
+(En caso de utilizar podria ser un DTO)
+
+
+flujo del programa 
+	1- eligo que quiero hacer o la empresa¿?
+
+clase 19,38,39,40
